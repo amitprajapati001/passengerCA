@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: aliceblue;
+  background-image: url("bus.jpg");
+  background-size: cover;
+}
+
+.style {
+  text-align: center;
+}
+button {
+  background-color: darkseagreen;
+  padding: 10px;
+  font-size: 30px;
+  border-radius: 10px;
+  margin-left: 10px;
+  color: white;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 60px;
+}
+#count-el {
+  font-size: 50px;
+}
+#pv {
+  font-size: 60px;
+  background-color: black;
+}
